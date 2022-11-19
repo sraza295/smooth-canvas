@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "smooth-canvas"
+    }
+  },
+  "defaultProject": "smooth-canvas",
+  "cli": {
+    "analytics": false
+  }
 }
